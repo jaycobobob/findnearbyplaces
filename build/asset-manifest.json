@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/findnearbythings/static/js/main.01f10751.js",
-    "index.html": "/findnearbythings/index.html",
-    "main.01f10751.js.map": "/findnearbythings/static/js/main.01f10751.js.map"
+    "main.js": "/findnearbyplaces/static/js/main.01f10751.js",
+    "index.html": "/findnearbyplaces/index.html",
+    "main.01f10751.js.map": "/findnearbyplaces/static/js/main.01f10751.js.map"
   },
   "entrypoints": [
     "static/js/main.01f10751.js"
